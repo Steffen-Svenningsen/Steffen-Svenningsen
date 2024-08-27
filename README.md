@@ -29,6 +29,9 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 ![Leaflet](https://img.shields.io/badge/-Leaflet-003300?style=flat&logo=leaflet&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff)
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44D4D?style=flat&logo=lighthouse&logoColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=ffffff)
+![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=flat&logo=shopify&logoColor=ffffff)
+![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat&logo=webflow&logoColor=ffffff)
 
 ## 🛠️ My Projects
 
