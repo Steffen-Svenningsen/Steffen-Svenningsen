@@ -34,10 +34,6 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 
 - Check out more projects at: https://svenningsen.pages.dev/projects
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steffen-Svenningsen&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=24&theme=radical)
-
-
 ## 🎯 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffen-Svenningsen&layout=compact&theme=radical)
