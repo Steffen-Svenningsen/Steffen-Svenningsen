@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Steffen
+# Hey there 👋 I'm Steffen!
 
 Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a Full-Stack Web Developer, passionate about creating fast, custom web applications that help businesses thrive. I love writing code in Vue, which I find so intuitive, but I also enjoy exploring new technologies and programming languages.
 
