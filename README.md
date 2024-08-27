@@ -34,6 +34,9 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 
 - Check out more projects at: https://svenningsen.pages.dev/projects
 
+## 📊 GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Steffen-Svenningsen&theme=react-dark)
+
 ## 🎯 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffen-Svenningsen&layout=compact&theme=radical)
