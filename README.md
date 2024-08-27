@@ -27,13 +27,12 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 ## 🛠️ My Projects
 
 - **SK Transport Employee app (https://svenningsen.pages.dev/projects/sk-transport-app)**: An employee app, designed as a PWA, created for an entrepreneur's trucking company, with task submission as the main feature.
+
 - **LPU Chatbot (https://nuxt-groq-chat.vercel.app/)**: A basic LPU Chatbot: a simple Nuxt.js starter project with the intention to create a fast chatbot leveraging Groq's API.
+
 - **Strava Route Mapper (Coming soon)**: A web-based Vue application utilizing Leaflet, Mapbox, and Strava's API to display an athlete's running routes and map coverage.
+
 - Check out more projects at: https://svenningsen.pages.dev/projects
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steffen-Svenningsen&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=24&theme=radical)
 
 ## 🎯 Top Languages
 
