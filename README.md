@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: Python & Full-Stack Web Development
+- 🌱 Currently learning: Python, SQLite & Full-Stack Web Development
 - 💬 Ask me about: Web Performance or Vue
 - 📝 Portfolio/Blog: https://svenningsen.pages.dev/
 - 📫 Say hi: stef7625@gmail.com
@@ -21,10 +21,8 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 ![Pug](https://img.shields.io/badge/-Pug-EEE?style=flat&logo=pug&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 ![Mapbox API](https://img.shields.io/badge/-Mapbox%20API-6AB0DE?style=flat&logo=mapbox&logoColor=ffffff)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-003300?style=flat&logo=leaflet&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff)
