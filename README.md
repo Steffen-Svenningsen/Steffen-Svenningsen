@@ -47,7 +47,7 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 
 ## ✨ Fun Fact
 
-Did you know? I've earned money playing football.
+Did you know? I've played high-level football my entire youth, lost the joy for it and now I exercise with a smaller yellow ball, playing tennis in my sparetime.
 
 ---
 
