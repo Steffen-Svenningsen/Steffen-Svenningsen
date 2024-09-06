@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a Full-Stack Web Developer, passionate about creating fast, custom web applications that help businesses thrive. I love writing code in Vue, which I find soooo intuitive, but I also enjoy exploring new technologies and programming languages.
 
-![](https://komarev.com/ghpvc/?Steffen-Svenningsen&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Steffen-Svenningsen&color=green&style=for-the-badge)
 
 ## 🚀 About Me
 
