@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 ## 🚀 About Me
 
 - 🌱 Currently learning: Python, SQLite & Full-Stack Web Development
-- 💬 Ask me about: Web Performance or Vue
+- 💬 Ask me about: Web Performance, Vue or sports
 - 📝 Portfolio/Blog: https://svenningsen.pages.dev/
 - 📫 Say hi: stef7625@gmail.com
 
