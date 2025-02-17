@@ -1,12 +1,12 @@
 # Hey there 👋 I'm Steffen!
 
-Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a Full-Stack Web Developer, passionate about creating fast, custom web applications that help businesses thrive. I love writing code in Vue, which I find soooo intuitive, but I also enjoy exploring new technologies and programming languages. All in all I just love to come up with creative solutions to solve peoples problems!
+Welcome to my GitHub profile! 🚀 I'm a Creative Developer, passionate about creating fast and likeable experiences for users on the web. I love writing code in Vue, which I find soooo intuitive, but I also enjoy exploring new technologies and programming languages. All in all I just love to come up with creative solutions to solve peoples problems!
 
 ![](https://komarev.com/ghpvc/?username=Steffen-Svenningsen&color=green&style=for-the-badge)
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: Python, SQLite & Full-Stack Web Development
+- 🌱 Currently learning: GSAP and PHP
 - 💬 Ask me about: Web Performance, Vue or sports
 - 📝 Portfolio/Blog: https://svenningsen.pages.dev/
 - 📫 Say hi: stef7625@gmail.com
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 
 - **LPU Chatbot (https://nuxt-groq-chat.vercel.app/)**: A basic LPU Chatbot: a simple Nuxt.js starter project with the intention to create a fast chatbot leveraging Groq's API.
 
-- **Strava Route Mapper (Coming soon)**: A web-based Vue application utilizing Leaflet, Mapbox, and Strava's API to display an athlete's running routes and map coverage.
+- **Joy Dash - Wolt clone (https://joy-dash-frontend.onrender.com/)**: A food delivery app like Wolt or Uber Eats. Full-stack web application developed with the MERN stack. 
 
 - Check out more projects at: https://svenningsen.pages.dev/projects
 
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! 🚀 I'm a Frontend Developer aspiring to become a
 
 ## ✨ Fun Fact
 
-Did you know? I've played high-level football my entire youth, lost the joy for it and now I exercise with a smaller yellow ball, playing tennis in my sparetime.
+Did you know? I've played high-level football my entire youth, lost the joy for it and now I exercise with a smaller yellow ball, playing tennis in my sparetime. Also, I'm still kicking the football some times. Can't entirely put it on the shelf.
 
 ---
 
