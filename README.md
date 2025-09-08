@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀 I'm a Creative Developer, passionate about cr
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: GSAP and PHP
+- 🌱 Currently learning: Laravel and Three.js
 - 💬 Ask me about: Web Performance, Vue or sports
 - 📝 Portfolio/Blog: https://svenningsen.pages.dev/
 - 📫 Say hi: stef7625@gmail.com
